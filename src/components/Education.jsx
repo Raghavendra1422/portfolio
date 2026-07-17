@@ -3,14 +3,14 @@ const education = [
     degree: 'Bachelor of Technology — Electronics & Communication Engineering',
     institution: 'CMR Engineering College',
     location: 'Hyderabad',
-    period: '2021 – 2024',
-    cgpa: '8.01',
+    period: '2020 – 2024',
+    cgpa: '8.02',
     highlights: [
       'Specialized in signal processing and embedded systems fundamentals',
       'Transitioned into AI/ML and GenAI engineering during final years',
       'Built production AI projects independently alongside academics',
     ],
-    tags: ['B.Tech', 'ECE', 'CGPA 8.01'],
+    tags: ['B.Tech', 'ECE', 'CGPA 8.02'],
   },
 ]
 
